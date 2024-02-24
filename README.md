@@ -1,4 +1,4 @@
-[Your Name]'s Personal Portfolio
+SKARI's Personal Portfolio
 Overview
 Welcome to my personal portfolio! This repository contains the source code and assets for my personal website, where I showcase my skills in UI/UX design and web development. Whether you're a potential employer, collaborator, or just curious, feel free to explore the projects and design elements that represent my journey and capabilities in the tech world.
 
@@ -52,6 +52,5 @@ This project is licensed under the MIT License.
 Contact
 Feel free to reach out for any inquiries or collaborations:
 
-Email: your.email@example.com
-LinkedIn: Your LinkedIn Profile
-Twitter: @YourTwitterHandle
+Email: kariithisimon1715@gmail.com
+LinkedIn: ww.linkedin.com/in/simon-kariithi-122543234
