@@ -20,14 +20,12 @@ Copy code
 |-- js/            # JavaScript files
 |-- projects/      # Individual project details
 |-- index.html     # Main HTML file
-|-- README.md      # Project documentation (you are here)
+|-- README.md      # Project documentation
 Technologies Used
 HTML
 CSS
-JavaScript (ES6+)
-React.js
-Bootstrap
-Adobe XD (for wireframing and prototyping)
+JavaScript
+Figma (for wireframing and prototyping)
 Visual Studio Code (as the primary code editor)
 Git (for version control)
 Features
@@ -35,14 +33,11 @@ Responsive design for various devices.
 Detailed project showcase with descriptions and visuals.
 Integration of modern design trends and user-centric approaches.
 Utilization of React.js for dynamic and interactive elements.
-Bootstrap for a consistent and mobile-friendly layout.
-Codebase organized for clarity and maintainability.
 Installation
-Clone the repository: git clone [repository URL]
+Clone the repository: git clone [https://github.com/simonkari/portfolio.git]
 Open index.html in your preferred web browser.
 Usage
 Explore the portfolio to get an overview of my skills, projects, and design philosophy. Click on individual projects to view detailed information, including technologies used and project outcomes.
-
 Contributing
 If you have suggestions, enhancements, or bug fixes, feel free to open an issue or create a pull request. Contributions are welcome!
 
